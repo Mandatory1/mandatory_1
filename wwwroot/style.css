@@ -1,0 +1,13 @@
+ol {
+    counter-reset: section;
+    list-style-type: none;
+}
+
+li::before {
+    counter-increment: section;
+    content: counters(section,".") " ";
+}
+
+body {
+    background-color: yellow;
+}
