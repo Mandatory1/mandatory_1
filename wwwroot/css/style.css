@@ -1,0 +1,16 @@
+    #wrapper{
+                       
+            background-color: yellow;
+            position:fixed;
+            font-size: 14px;
+            margin: 0 auto 0 auto;
+            padding: 30px 30px 30px 30px;
+            
+            }      
+        
+    body{
+
+        padding-left: 550px;
+        
+        
+    }
